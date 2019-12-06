@@ -1,0 +1,29 @@
+body {
+    min-height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    background: white;
+    background: url("./characters/anime.jpeg");
+    background-size: cover;
+}
+
+h2 {
+    color: #111;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    padding-bottom: 0;
+}
+
+div {
+    max-width: 960px;
+}
+
+img {
+    display: inline-block;
+    max-width: 98%;
+    height: auto;
+    width: 30%;
+    margin: 1%;
+}
